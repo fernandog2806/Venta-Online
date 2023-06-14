@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+#navbar {
+    margin-bottom: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.electrodomesticos,
+.tecnologia,
+.herramientas,
+.moda {
+    text-align: center;
+    margin: 5vh 0;
+    text-decoration: underline;
+}
+
+
+
+
+
+#producto {
+    max-width: 100%;
+    height: auto;
+}
+
+
+#imagenes {
+    float: left;
+    margin-left: 10vw;
+    width: 20vw;
+    max-width: 100%;
+    height: auto;
+
+}
+
+
+
+
+@media only screen and (max-width: 767px) {
+
+
+    #imagenes,
+    div,
+    table {
+        width: 100%;
+        margin-left: 0;
+    }
+}
+
+
+h4 {
+    text-align: center;
+
+}
+
+footer {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: burlywood;
+    align-self: flex-end;
+    width: 100%;
+    padding-left: 2vh;
+}

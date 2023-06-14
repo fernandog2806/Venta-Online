@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.css">
+    <link href="css/index.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.js"></script>
+    <title>TP 2: FreeMarket</title>
+
+    <title></title>
+</head>
+
+<body>
+    <!-- HEADER -->
+
+    <header>
+        <menu>
+            <nav class="navbar navbar-inverse" role="navigation" id="navbar">
+
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse"
+                        data-target=".navbar-ex1-collapse">
+                        <span class="sr-only">Desplegar navegación</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand">FreeMarket</a>
+                </div>
+                <div class="collapse navbar-collapse navbar-ex1-collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a>Vender</a></li>
+                        <li class="active"><a>Comprar</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <form class="navbar-form navbar-left" role="search">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Buscar productos">
+                            </div>
+                            <button type="submit" class="btn btn-default">Buscar</button>
+                        </form>
+                    </ul>
+                </div>
+            </nav>
+        </menu>
+        <!-- Carousel -->
+        <div>
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ol>
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <img src="img/foto.png" alt="Imagen de Tecnologia">
+                    </div>
+
+                    <div class="item">
+                        <img src="img/descarga.png" alt="Imagen de motos">
+                    </div>
+
+                    <div class="item">
+                        <img src="img/images.jpeg" alt="Imagen de Cyber-Ofertas ">
+                    </div>
+                </div>
+
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+
+
+    </header>
+
+    <!-- SECTION --->
+    <section>
+        <div>
+            <div>
+                <h3 class="moda"><b>Moda</b></h3>
+            </div>
+
+            <div id="centro">
+
+                <nav id="imagenes">
+                    <div><img src="img/remeras.jpg" id="producto">
+                    </div>
+                    <p>Remeras Talles S-M-L Corta Hombre Algodon Cuello Redondo</p>
+                    <h2>$2.500</h2>
+                </nav>
+
+                <nav id="imagenes">
+                    <div> <img src="img/pantalon.jpg" alt="" id="producto">
+                    </div>
+                    <p>Jeans Mom Boyfriend Mujer Rigido Del 36 Al 46</p>
+                    <h2>$7.000</h2>
+                </nav>
+
+                <nav id="imagenes">
+                    <div><img src="img/campera.jpg " alt="" id="producto">
+                    </div>
+                    <p>Campera Mujer Eco Cuero Simil Cuero Talles S-M-L-XL</p>
+                    <h2>$7.500</h2>
+                </nav>
+            </div>
+        </div>
+
+        <div>
+            <div>
+                <h3 class="tecnologia"><b>Tecnología</b></h3>
+            </div>
+
+            <div id="centro">
+
+                <nav id="imagenes">
+                    <div><img src="img/celular.jpg" alt="" id="producto">
+                    </div>
+                    <p>OnePlus X: RAM 3 GB, MEMORIA 16GB (microSD hasta 128GB)</p>
+                    <h2>$300.000</h2>
+
+                </nav>
+
+                <nav id="imagenes">
+                    <div> <img src="img/computadora.jpg" alt="" id="producto">
+                    </div>
+                    <p>Pc Armada Gamer Amd Ryzen 5 4600g 16gb Nvme 240 Radeon Vega</p>
+                    <h2>$90.000</h2>
+                </nav>
+
+                <nav id="imagenes">
+                    <div><img src="img/ps5.jpg" alt="" id="producto">
+                    </div>
+                    <p>Sony PlayStation 5 825GB Standard color blanco y negro</p>
+                    <h2>$450.000</h2>
+                </nav>
+            </div>
+        </div>
+
+        <div>
+            <div>
+                <h3 class="electrodomesticos"><b>Electrodomesticos</b></h3>
+            </div>
+
+            <div id="centro">
+
+                <nav id="imagenes">
+                    <div><img src="img/heladera.jpg" id="producto">
+                    </div>
+                    <p>Heladera inverter no frost Samsung RT38K5932 inox con freezer 382L 220V</p>
+                    <h2>$225.000</h2>
+
+                </nav>
+
+                <nav id="imagenes">
+                    <div> <img src="img/microondas.jpg" alt="" id="producto">
+                    </div>
+                    <p>Microondas BGH Quick Chef B120DS20 silver 20L 220V</p>
+                    <h2>$36.000</h2>
+                </nav>
+
+                <nav id="imagenes">
+                    <div><img src="img/cocina.jpg" alt="" id="producto">
+                    </div>
+                    <p>Cocina Escorial Candor S2 gas natural 4 hornallas blanca 220V puerta con visor</p>
+                    <h2>$35.000</h2>
+                </nav>
+            </div>
+        </div>
+
+        <div>
+            <div>
+                <h3 class="herramientas"><b>Herramientas</b></h3>
+            </div>
+
+            <div id="centro">
+
+                <nav id="imagenes">
+                    <div><img src="img/desmalezadora.jpg" id="producto">
+                    </div>
+                    <p>Desmalezadora 52cc Motoguadaña Naftera Cuchilla Arnes +tanza</p>
+                    <h2>$40.000</h2>
+
+                </nav>
+
+                <nav id="imagenes">
+                    <div> <img src="img/motosierra.jpg" alt="" id="producto">
+                    </div>
+                    <p>Motosierra eléctrica Black+Decker GK1740 de 1850W 220V 50Hz</p>
+                    <h2>$30.000</h2>
+                </nav>
+
+                <nav id="imagenes">
+                    <div><img src="img/kit_herramientas.jpg " alt="" id="producto">
+                    </div>
+                    <p>Kit De Herramientas Manuales 113 Pzs Set Acero Inoxidable</p>
+                    <h2>$15.500</h2>
+                </nav>
+            </div>
+        </div>
+    </section>
+
+
+
+    <div>
+        <table class="table">
+            <caption>
+                <h4>Productos y Ventas</h4>
+            </caption>
+            <tr>
+                <th>Categoria</th>
+                <th>Cantidad de productos</th>
+                <th>Vendidos</th>
+
+            </tr>
+            <tr>
+                <td>Electrodomesticos</td>
+                <td>1.456</td>
+                <td>720</td>
+            </tr>
+            <tr>
+                <td>Herramientas</td>
+                <td>1.212</td>
+                <td>541</td>
+            </tr>
+            <tr>
+                <td>Moda</td>
+                <td>2.124</td>
+                <td>1.539</td>
+
+            </tr>
+            <tr>
+                <td>Tecnología</td>
+                <td>4.247</td>
+                <td>1.932</td>
+            </tr>
+
+        </table>
+    </div>
+
+    <!-- FOOTER - Pie de pagina con link a mandar mail -->
+
+    <footer class="footer">
+        <div>
+            <p id="tp">2022 Fernando González</p>
+            <p id="tp">Trabajo práctico N°2</p>
+            <p id="tp">© Materia de "Taller de lenguajes de marcado y tecnologías web"</p>
+            <p><a href="mailto:fernando.gonzalez91@hotmail.com">Contactar al E-mail</a></p>
+        </div>
+    </footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,1204 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58716506-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-58716506-1');
+      
+      //Global site tag (gtag.js) - Google Ads: 574818379 (Julio-2021)
+      gtag('config', 'AW-574818379'); 
+    </script>
+
+    <!-- Event snippet for Formulario contacto web conversion page In your html page,
+    add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+    <script>
+        function gtag_report_contact()
+        {
+            var callback = function () {};
+
+            gtag('event', 'conversion', {
+                'send_to': 'AW-574818379/26pJCLuM9akDEMuQjJIC',
+                'event_callback': callback });
+            return false;
+        }
+    </script>
+
+    <!-- Event snippet for Suscripción novedades conversion page In your html page,
+    add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+    <script>
+        function gtag_report_subscribe()
+        {
+            var callback = function () {};
+
+            gtag('event', 'conversion', {
+                'send_to': 'AW-574818379/1NRkCNCd8qkDEMuQjJIC',
+                'event_callback': callback });
+            return false;
+        }
+    </script>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9">
+<!--meta name="theme-color" content="#1b429a" /-->
+<meta property="fb:pages" content="1405316349771591">
+
+
+    <title>DESMALEZADORA EJE RECTO 49.3cc (520CG) - Ferretera San Luis</title>
+
+
+<link rel="shortcut icon" href="https://www.ferreterasanluis.com/themes/fsl/assets/img/favicon.png" type="image/png" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.ferreterasanluis.com/themes/fsl/assets/img/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.ferreterasanluis.com/themes/fsl/assets/img/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.ferreterasanluis.com/themes/fsl/assets/img/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.ferreterasanluis.com/themes/fsl/assets/img/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.ferreterasanluis.com/themes/fsl/assets/img/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.ferreterasanluis.com/themes/fsl/assets/img/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.ferreterasanluis.com/themes/fsl/assets/img/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.ferreterasanluis.com/themes/fsl/assets/img/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.ferreterasanluis.com/themes/fsl/assets/img/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://www.ferreterasanluis.com/themes/fsl/assets/img/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.ferreterasanluis.com/themes/fsl/assets/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.ferreterasanluis.com/themes/fsl/assets/img/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.ferreterasanluis.com/themes/fsl/assets/img/favicon-16x16.png">
+<!--<link rel="manifest" href="https://www.ferreterasanluis.com/themes/fsl/assets/img/manifest.json">-->
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://www.ferreterasanluis.com/themes/fsl/assets/img/ms-icon-144x144.png">
+<meta name="theme-color" content="#1b429a" />
+
+<meta name="description" content="" />
+<!--<link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,700,600' rel='stylesheet' type='text/css'>-->
+<link href="https://www.ferreterasanluis.com/themes/fsl/assets/css/frontend-main.css" type="text/css" rel="stylesheet" /><link href="https://www.ferreterasanluis.com/themes/fsl/assets/css/frontend-jul-2021.css" type="text/css" rel="stylesheet" /><script type="text/javascript" src="https://www.ferreterasanluis.com/themes/fsl/assets/js/min/js.min.js"></script><script type="text/javascript" src="https://www.ferreterasanluis.com/themes/fsl/assets/cache/d7acaf16447607f7ef7e2fd68b5da84e.js"></script>
+<script src="https://www.ferreterasanluis.com/assets/js/custom/bgn.global.js"></script>
+
+<!--[if lt IE 9]>
+<script>window.location='https://www.ferreterasanluis.com/navegador-desactualizado.html';</script>
+<![endif]-->
+
+<!--[if IE 9]>
+  <link href="http://dev.local/ecommerce/themes/fsl/assets/css/ie9.css" type="text/css" rel="stylesheet" />
+<![endif]-->
+
+
+
+    <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '491787917863358'); // Insert your pixel ID here.
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=491787917863358&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- DO NOT MODIFY -->
+    <!-- End Facebook Pixel Code -->
+    
+    
+
+</head>
+
+<body class="tm-body-background">
+
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-58716506-1', 'auto');
+        ga('create', 'UA-86561652-1', 'auto','fsl');
+        ga('send', 'pageview');
+        ga('fsl.send', 'pageview');
+
+        function handleOutboundLinkClicks(event) {
+            ga('fsl.send', 'event', {
+                eventCategory: 'Consultar',
+                eventAction: 'consulta-sin-stock',
+                eventLabel: 'Consulta por producto'
+            });
+        }
+        
+        function GA_consultar_00(event){ga('fsl.send', 'event',{eventCategory: 'Consultar',eventAction: 'cambio-btn-a-consultar',eventLabel: 'Stock 0, cambio a btn consultar'});}
+        function GA_consultar_01(event){ga('fsl.send', 'event', {eventCategory: 'Consultar',eventAction: 'consulta-sin-stock',eventLabel: 'Consulta por producto'});}
+        function GA_consultar_02(event){ga('fsl.send', 'event',{eventCategory: 'Consultar',eventAction: 'enviar-consulta',eventLabel: 'Enviar - Consulta por producto'});}
+        function GA_comprar_01(event){ga('fsl.send', 'event', {eventCategory: 'Comprar',eventAction: 'Finalizar-compra',eventLabel: 'Finalizar compra'});}
+        function GA_comprar_02(event){ga('fsl.send', 'event', {eventCategory: 'Comprar',eventAction: 'Continuar-comprando',eventLabel: 'Continuar comprando'});}
+        function GA_comprar_03(event){ga('fsl.send', 'event', {eventCategory: 'Comprar',eventAction: 'Eliminar-productos',eventLabel: 'Eliminar productos'});}
+        function GA_Checkout_00(event){ga('fsl.send', 'event', {eventCategory: 'Checkout',eventAction: 'Ya-estoy-registrado',eventLabel: 'Ya estoy registrado'});}
+        function GA_Checkout_01(event){ga('fsl.send', 'event', {eventCategory: 'Checkout',eventAction: 'Ya-registrado-ingresar',eventLabel: 'Ingresar en modal Ya estoy registrado'});}
+        function GA_Checkout_02(event){ga('fsl.send', 'event', {eventCategory: 'Checkout',eventAction: 'Continuar-1-identificacion',eventLabel: 'Continuar tab 1 (Ident)'});}
+        function GA_Checkout_03(event){ga('fsl.send', 'event', {eventCategory: 'Checkout',eventAction: 'Continuar-2-envio',eventLabel: 'Continuar tab 2 (Envio)'});}
+        function GA_Checkout_04(event){ga('fsl.send', 'event', {eventCategory: 'Checkout',eventAction: 'Pagar-Compra-Tarjeta',eventLabel: 'Pagar Compra Tarjeta'});}
+        function GA_Checkout_05(event){ga('fsl.send', 'event', {eventCategory: 'Checkout',eventAction: 'Pagar-Compra-Transferencia',eventLabel: 'Pagar Compra Transferencia'});}
+        function GA_Checkout_06(event){ga('fsl.send', 'event', {eventCategory: 'Checkout',eventAction: 'Eliminar-productos-checkout',eventLabel: 'Eliminar productos checkout'});}
+        function GA_descuento_01(event){ga('fsl.send', 'event', {eventCategory: 'Descuento',eventAction: 'Codigo-de-descuento',eventLabel: 'Codigo de descuento'});}
+    </script>
+    
+    
+
+    <script>
+fbq('track', 'ViewContent', {
+value: 35496.53,
+currency: 'ARS'
+});
+</script>
+
+
+<div class="tm-page tm-producto-ampliado">
+
+    
+<script>
+    var $base_url     = 'https://www.ferreterasanluis.com/';
+
+    var $checkout_url    = 'https://www.ferreterasanluis.com/checkout';
+    var $precheckout_url = 'https://www.ferreterasanluis.com/precheckout';
+
+    var $js_precheckout_class = 'js-precheckout';
+</script>
+
+
+
+
+
+
+
+<div class="tm-head" id="toptop">
+    <div id="js-search-0" class="tm-search_cover uk-hidden">
+        <div class="uk-container uk-container-center">
+            <div class="uk-grid uk-grid-collapse">
+                <div class="uk-width-1-1 tm-search-top-animate">
+                    <form action="https://www.ferreterasanluis.com/s" class="uk-search tm-search-input uk-grid"  method="post" accept-charset="utf-8">
+                        <div class="uk-form-icon uk-search tm-search-input uk-width-7-10">
+                            <input type="text" id="search_3" name="term" class="uk-search-field search-query global-search-3" placeholder="Encuentre lo que busca!..."/>
+                                                    </div>
+                        <div class="uk-width-3-10" style="padding-top: 14px;">
+                            En stock                            <input type="checkbox"  id="wstock_3" name="wstock_3" style="width: 16px;height: 16px;margin:0 5px;"/>
+                        </div>
+                    </form>
+                </div>
+                <div class="tm-result js-result-3 uk-width-1-1"></div>
+            </div>
+        </div>
+    </div>
+
+        <div class="tm-toolbar uk-hidden-small">
+        <div class="tm-container">
+            <div class="uk-flex uk-flex-space-between">
+
+                <div class="">
+                    <div class="tm-accesosDatosRapidos">
+                        <span>
+                            <a href="https://www.ferreterasanluis.com/page/contacto">
+                                <b>CONTÁCTESE!</b>
+                                <i class="uk-icon-phone"></i>
+                            </a>
+                            <!--<span>(0341) 4560301 int 141 / 4409095 </span>-->
+                            <span>(0341) 4560301 (Casa Central) / 4409095 (Suc. Centro) </span>
+                            <span class="tm-separador uk-visible-large">|</span>
+                            <a href="https://www.ferreterasanluis.com/page/locales-comerciales" class="uk-visible-large">
+                                <i class="uk-icon-map-marker"></i>
+                                Locales: San Juan esq. Mitre ó Provincias Unidas 136 (Rosario)
+                            </a>
+                        </span>
+                    </div>
+                </div>
+                <div class="">
+                    <div class="tm-accesos uk-text-right">
+                        <a href="https://www.ferreterasanluis.com/page/guia-de-compras" class="tm-como-comprar">
+                            <i class="uk-icon-question-circle"></i>
+                            <span class="">Cómo comprar?</span>
+                        </a>
+                        
+                        <a href="https://www.facebook.com/ferreterasanluis" target="_blank" class="uk-hidden-medium">
+                            <i class="uk-icon-facebook-square"></i>
+                        </a>
+                        <a href="https://www.instagram.com/ferreterasanluis" target="_blank" class="uk-hidden-medium">
+                            <i class="uk-icon-instagram"></i>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="tm-brand uk-block-default">
+        <div class="">
+            <div class="tm-wrapGrid">
+                <div class="item-a">
+                    <a class="uk-display-inline-block tm-logo" href="https://www.ferreterasanluis.com/">
+                        <!--<img src="https://www.ferreterasanluis.com/themes/fsl/assets/images/custom/logo_fsl.svg" alt="Ferretera San Luis" height="40" width="142">-->
+                        <img src="https://www.ferreterasanluis.com/themes/fsl/assets/images/custom/fsl_white.png" alt="Ferretera San Luis" width="165">
+                    </a>
+                </div>
+                <div class="item-b tm-search-cart">
+                    <div class="uk-flex">
+                    <div class="uk-visible-small tm-icon-toggle">
+                        <a href="#side-cat-menu" class="tm-navbar-toggle" data-uk-offcanvas="">
+                            <i class="uk-icon-bars"></i>
+                        </a>
+                    </div>
+                    <div class="tm-search">
+                        <form action="https://www.ferreterasanluis.com/s" class="uk-search tm-search-input"  method="post" accept-charset="utf-8">
+                            <div class="uk-flex uk-flex-middle">
+                                <label for="search"><i class="uk-icon-search"></i></label>
+                                <div class="uk-search tm-search-input uk-width-8-10">
+                                    <input type="text" id="search_1" name="term" class=" search-query global-search"
+                                    placeholder="Encuentre lo que busca!..."/>
+                                </div>
+                                <div class="uk-width-2-10">
+                                    En stock                                    <input type="checkbox"  id="wstock_1" name="wstock_1" style="width: 16px;height: 16px;margin:0 5px;"/>
+                                </div>
+                            </div>
+                        </form>
+                        <div class="tm-result js-result-1"></div>
+                    </div>
+                    </div>
+                </div>
+                <div class="item-c">
+                    <div class="uk-flex uk-flex-middle">                        
+                        <!--<div class="">-->
+                            <div class="tm-userRequest uk-visible-small">
+                                <a href="https://www.ferreterasanluis.com/page/guia-de-compras">
+                                    <div class="uk-flex">
+                                        <div>
+                                            <i class="uk-icon-question-circle"></i>
+                                        </div>                                  
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="tm-userRequest tm-payMethod uk-hidden-small">
+                                <a href="https://www.ferreterasanluis.com/page/medios-de-pago">
+                                    <div class="uk-flex">
+                                        <div>
+                                            <i class="uk-icon-credit-card"></i>
+                                        </div>
+                                        <div class="uk-hidden-small">
+                                            <span style="font-weight: normal;">
+                                                Formas 
+                                            </span>
+                                            <span class="">
+                                                de Pago
+                                            </span>                                            
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="tm-userRequest tm-shipMethod uk-hidden-small">
+                                <a href="https://www.ferreterasanluis.com/page/formas-de-entrega">
+                                    <div class="uk-flex">
+                                        <div>
+                                            <i class="uk-icon-truck"></i>
+                                        </div>
+                                        <div class="uk-hidden-small">
+                                            <span style="font-weight: normal;">
+                                                Formas 
+                                            </span>
+                                            <span class="">
+                                                de Envío
+                                            </span>                                            
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="tm-userRequest rm-border">
+                                                                    <a href="https://www.ferreterasanluis.com/login">
+                                        <div class="uk-flex">
+                                            <div>
+                                                <i class="uk-icon-user"></i>
+                                            </div>
+                                            <div class="uk-hidden-small">
+                                                <span class="">
+                                                    Mi cuenta
+                                                </span>
+                                                <small>
+                                                    Iniciar sesión »
+                                                </small>
+                                            </div>
+                                        </div>
+                                    </a>
+                                                            </div>
+                        <!--</div>-->
+                        <div class="uk-text-center">
+                            <a class="tm-cart tm-active " href="#">
+                                <div class="tm-cart-num js-current-items">
+                                    0                                </div>
+                                <div class="tm-price">
+                                    <i class="uk-icon-shopping-cart"></i>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="uk-block-primary uk-hidden-small tm-menu" id="_defer_cat_menu">
+                
+    </div>
+
+    
+
+    <div id="tm-offcanvas-nav-todos" class="uk-offcanvas js-toggleMenu"></div>
+
+</div>
+
+<!-- menu sticky -->
+<div class="tm-sticky" data-uk-sticky="{top:0, animation: false}">
+    <div class="">
+        <nav class="tm-navbar-sticky v2 tm-V2Product">
+            <div class="tm-grid-sticky">
+                <a href="#side-cat-menu" class="tm-todos" data-uk-offcanvas="">
+                    <i class="uk-icon-bars"></i>
+                </a>
+                <a class="tm-logo" href="https://www.ferreterasanluis.com/">
+                    <img src="https://www.ferreterasanluis.com/themes/fsl/assets/images/custom/logo_sticky.svg" alt="Ferretera San Luis" height="31" width="106">
+                </a>
+                <a href="#" class="uk-visible-small tm-search" data-uk-toggle="{target:'#js-search-0'}" >
+                    <div class="uk-flex uk-flex-center uk-flex-middle tm-sticon">
+                        <i class="uk-icon-search"></i>
+                    </div>
+                </a>
+                
+                <div class="tm-icons-center uk-hidden-small">
+                    <div class="uk-grid uk-flex-middle">
+                        <div class="uk-width-large-4-10">
+                            <form action="https://www.ferreterasanluis.com/s" class="uk-search tm-search-input uk-grid"  method="post" accept-charset="utf-8">
+                                <div class="uk-form-icon uk-search tm-search-input uk-width-8-10">
+                                    <div class="uk-flex uk-flex-middle tm-iconSearchSticky">
+                                        <i class="uk-icon-search"></i>
+                                    </div>
+                                    <input type="text" id="search_2" name="term" class="uk-search-field search-query global-search-2" placeholder="Encuentre lo que busca!..."/>
+                                </div>
+                                <div class="uk-width-2-10" style="padding-top: 14px;">
+                                    En stock                                    <input type="checkbox"  id="wstock_2" name="wstock_2" style="width: 16px;height: 16px;margin:0 5px;"/>
+                                </div>
+                            </form>
+                            <div class="tm-result js-result-2"></div>
+                        </div>
+
+
+                        
+                                                        
+                            <div class="uk-width-6-10 uk-visible-large">
+                                <div class="tm-grid-stickyProducto">
+                                    <div class="">
+                                        <div class="tm-name">
+                                            DESMALEZADORA EJE RECTO 49.3cc (520CG)...                                        </div>
+
+                                        
+                                            
+                                            <div class="tm-price">
+
+                                                                                                    $ 35.496<span>53</span>
+                                                                                            </div>
+                                                                            </div>
+                                                                            <div class="">
+                                            <button class="tm-comprar tm-btnRojo js-buy-btn uk-hidden" type="button" value="submit" onclick="addToCart();">
+                                                <span class="tm-buy uk-hidden-small">Comprar</span>
+                                                <i class="uk-icon-shopping-cart"></i>
+                                            </button>
+                                            <button class="tm-comprar tm-btnGris js-contact uk-hidden" type="button" value="submit" data-product-id="75902">
+                                                <span class="tm-buy uk-hidden-small">Notificarme</span>
+                                                <i class="uk-icon-envelope"></i>
+                                            </button>
+                                        </div>
+                                                                    </div>
+                            </div>
+                        
+
+                    </div>
+                </div>
+
+                <a href="https://www.ferreterasanluis.com/page/guia-de-compras" class="tm-user">
+                    <div class="uk-flex uk-flex-center uk-flex-middle tm-sticon">
+                        <i class="uk-icon-question-circle"></i>
+                    </div>
+                </a>
+                
+                <a href="https://www.ferreterasanluis.com/login" class="tm-user">
+                    <div class="uk-flex uk-flex-center uk-flex-middle tm-sticon">
+                        <i class="uk-icon-user"></i>
+                    </div>
+                </a>
+
+                <a href="#" class="tm-cart tm-active ">
+                    <div class="tm-cart-num js-current-items ">0</div>
+                    <div class="tm-price">
+                        <div class="uk-flex uk-flex-center uk-flex-middle tm-sticon">
+                            <i class="uk-icon-shopping-cart"></i>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </nav>
+    </div>
+    <div class="uk-hidden-large" data-uk-scrollspy="{ target:'.tm-sticky-product',topoffset:350,repeat:true}">
+            <div class="uk-block-default tm-sticky-product">
+            <div class="tm-grid-stickyProducto">
+                <div class="tm-name">
+                    DESMALEZADORA EJE RECTO 49.3cc (520CG)...                </div>
+
+                
+                    
+                    <div class="">
+                        <div class="tm-price">
+                                                            $ 35.496<span>53</span>
+                                                    </div>
+                    </div>
+                    <div class="">
+                        <button class="tm-comprar tm-btnRojo js-buy-btn uk-hidden" type="button" value="submit" onclick="addToCart();">
+                            <i class="uk-icon-shopping-cart"></i>
+                            <span class="tm-buy uk-hidden-small">Comprar</span>
+                        </button>
+                        <button class="tm-comprar tm-btnGris js-contact uk-hidden" type="button" value="submit" data-product-id="75902">
+                            <i class="uk-icon-envelope"></i>
+                            <span class="tm-buy uk-hidden-small">Notificarme</span>
+                        </button>
+                    </div>
+                
+            </div>
+        </div>
+        </div>
+
+</div>
+
+<div id="_defer_side_cat_menu"></div>
+
+<script> 
+var wgt_cat_menu_URL       = 'https://www.ferreterasanluis.com/highlights/widget/category/menu'; 
+var rsrc_cat_menu_URL      = 'https://www.ferreterasanluis.com/highlights/resources/cat_menu'; 
+var rsrc_side_cat_menu_URL = 'https://www.ferreterasanluis.com/highlights/resources/side_cat_menu'; 
+</script>
+
+<script src="https://www.ferreterasanluis.com/assets/js/custom/on.menu.js"></script>
+
+
+
+
+        <div class="uk-container uk-container-center tm-container-section">
+        <div class="uk-grid">
+            <div class="uk-width-1-1">
+                        <ul class="uk-breadcrumb">
+        <li><a href="https://www.ferreterasanluis.com/"><i class="uk-icon-home"></i></a></li>
+        
+                        
+                            <li class="uk-visible-large">
+                    <span> 
+                        <span>
+                            Césped y Jardín                        </span>
+                    </span>
+                </li>  
+                            
+                
+                            
+                <li>
+                    <span> 
+                        <a href="https://www.ferreterasanluis.com/c/pesados">
+                            Trabajos Pesados                        </a>
+                    </span>
+                </li> 
+                            
+                
+                            
+                <li>
+                    <span> 
+                        <a href="https://www.ferreterasanluis.com/c/desmalezadoras">
+                            Desmalezadoras                        </a>
+                    </span>
+                </li> 
+                            
+                
+                            <li class="uk-hidden-large"></li>
+                <li class="uk-active uk-visible-large">
+                    <span>
+                        DESMALEZADORA EJE RECTO 49.3cc (520CG)                    </span>
+                </li>
+                            
+                
+    </ul>
+    
+            </div>
+            <div class="uk-width-1-1 uk-width-large-7-10">
+                <h1>DESMALEZADORA EJE RECTO 49.3cc (520CG)</h1>
+            </div>
+            <div class="uk-width-1-1 uk-width-large-3-10">
+                <p class="tm-social-share">
+                    <b>COMPARTIR EN</b>
+                                        <a href="http://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ferreterasanluis.com%2Fp%2Fdesmalezadora-eje-recto-493cc-520cg&t=DESMALEZADORA+EJE+RECTO+49.3cc+%28520CG%29" target="_blank">
+                        <i class="uk-icon-facebook-square"></i>
+                    </a>
+                    <a class="tm-shares tm-share-twitter"
+                        href="https://twitter.com/share"
+                        data-url="https://www.ferreterasanluis.com/p/desmalezadora-eje-recto-493cc-520cg"
+                        data-text="DESMALEZADORA EJE RECTO 49.3cc (520CG)"
+                        target="_blank">
+                        <i class="uk-icon-twitter-square"></i>
+                    </a>
+                    <a href="mailto:?subject=Recomandación de Ferretera San Luis: DESMALEZADORA EJE RECTO 49.3cc (520CG)&body=URL del artículo: https%3A%2F%2Fwww.ferreterasanluis.com%2Fp%2Fdesmalezadora-eje-recto-493cc-520cg" title="DESMALEZADORA EJE RECTO 49.3cc (520CG)" target="_blank">
+                        <i class="uk-icon-envelope"></i>
+                    </a>
+                                    </p>
+            </div>
+        </div>
+        <div class="uk-grid tm-grid tm-margin-wrap-producto" >            <div class="uk-width-1-1 uk-width-medium-7-10 uk-width-large-7-10 ">
+                <div class="uk-grid uk-grid-small js-match">
+                                        <div class="uk-width-medium-8-10 uk-push-2-10 uk-width-1-1 tm-big-img ">
+                        <ul id="js-gallery-product" class="uk-switcher  js-match">
+                                                                                                                                    <li class="uk-flex uk-flex-middle uk-flex-center uk-height-1-1 js-match uk-active tm-posR">
+                                        <a href="https://www.ferreterasanluis.com/uploads/images/full/4f957a26357f3b58e6845ef98b0f1ddd.jpg" title="" data-uk-lightbox="{group:'galeria_producto'}">
+                                            <div class="tm-ampliarFoto"><i class="uk-icon-search-plus"></i></div>
+                                            <img src="https://www.ferreterasanluis.com/uploads/images/medium/4f957a26357f3b58e6845ef98b0f1ddd.jpg" alt="DESMALEZADORA EJE RECTO 49.3cc (520CG) - BLACK PANTHER - FMT - NAKAMA" data-caption=""/>
+                                        </a>
+
+                                                                            </li>
+                                                                                                        <li class="uk-flex uk-flex-middle uk-flex-center uk-height-1-1 js-match uk-active tm-posR">
+                                        <a href="https://www.ferreterasanluis.com/uploads/images/full/f53b9ca73229c652ae7e7ac036d78674.jpg" title="" data-uk-lightbox="{group:'galeria_producto'}">
+                                            <div class="tm-ampliarFoto"><i class="uk-icon-search-plus"></i></div>
+                                            <img src="https://www.ferreterasanluis.com/uploads/images/medium/f53b9ca73229c652ae7e7ac036d78674.jpg" alt="DESMALEZADORA EJE RECTO 49.3cc (520CG) - BLACK PANTHER - FMT - NAKAMA" data-caption=""/>
+                                        </a>
+
+                                                                            </li>
+                                                                                                        <li class="uk-flex uk-flex-middle uk-flex-center uk-height-1-1 js-match uk-active tm-posR">
+                                        <a href="https://www.ferreterasanluis.com/uploads/images/full/324c40261263e6b86bedd1f8b9b012aa.jpg" title="" data-uk-lightbox="{group:'galeria_producto'}">
+                                            <div class="tm-ampliarFoto"><i class="uk-icon-search-plus"></i></div>
+                                            <img src="https://www.ferreterasanluis.com/uploads/images/medium/324c40261263e6b86bedd1f8b9b012aa.jpg" alt="DESMALEZADORA EJE RECTO 49.3cc (520CG) - BLACK PANTHER - FMT - NAKAMA" data-caption=""/>
+                                        </a>
+
+                                                                            </li>
+                                                                                                                    </ul>
+                        <p class="tm-countVideoImg">
+                                                            <span><b>3</b> imágenes    </span>
+                                                                                        
+                                <a href="https://www.ferreterasanluis.com/uploads/images/full/4f957a26357f3b58e6845ef98b0f1ddd.jpg" class="tm-verTodasImg" data-uk-lightbox="{group:'galeria_producto'}">
+                                    <b>» ver todo</b>
+                                </a>
+                                
+                        </p>
+                    </div>
+
+                                                                <div class="uk-width-10-10 uk-width-medium-2-10 uk-pull-8-10 tm-thumbs ">
+                            <ul class="uk-list uk-flex uk-flex-middle uk-flex-center uk-flex-space-between" data-uk-switcher="{connect:'#js-gallery-product'}">
+                                                                                                                                                                                   <li class="">
+                                            <a href="#">
+                                                                                                <img src="https://www.ferreterasanluis.com/uploads/images/thumbnails/4f957a26357f3b58e6845ef98b0f1ddd.jpg" alt="DESMALEZADORA EJE RECTO 49.3cc (520CG) - BLACK PANTHER - FMT - NAKAMA" data-caption=""/>
+                                            </a>
+                                        </li>
+                                                                                                                   <li class="">
+                                            <a href="#">
+                                                                                                <img src="https://www.ferreterasanluis.com/uploads/images/thumbnails/f53b9ca73229c652ae7e7ac036d78674.jpg" alt="DESMALEZADORA EJE RECTO 49.3cc (520CG) - BLACK PANTHER - FMT - NAKAMA" data-caption=""/>
+                                            </a>
+                                        </li>
+                                                                                                                   <li class="">
+                                            <a href="#">
+                                                                                                <img src="https://www.ferreterasanluis.com/uploads/images/thumbnails/324c40261263e6b86bedd1f8b9b012aa.jpg" alt="DESMALEZADORA EJE RECTO 49.3cc (520CG) - BLACK PANTHER - FMT - NAKAMA" data-caption=""/>
+                                            </a>
+                                        </li>
+                                                                                                                                </ul>
+                        </div>
+                    
+
+
+
+                                                        </div>
+            </div>
+
+
+            <div class="uk-width-large-3-10 uk-width-medium-3-10 uk-width-small-1-1 productDetails js-match">
+
+                <div class="tm-border-wrap">
+                                                            <div class="tm-insignia-top">
+                                                                    </div>
+
+                    <div class="tm-shortDesc uk-width-medium-1-1 uk-width-small-1-1">
+                                                <p>
+                            <b>Marca:</b> BLACK PANTHER - FMT - NAKAMA&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b>Cod. Producto:</b> IMVABP-D520CC                        </p>
+                    </div>
+                    <div class="tm-price uk-width-medium-1-1 uk-width-small-1-1">
+                      <div class="uk-clearfix">
+
+
+                            
+
+
+                         <div class="tm-final-price">
+                            <div class="tm-num">
+                                
+                                                                        $ 35.496<span>53</span>
+
+                                    <div class="tm-cuotas"></div>                                                            </div>
+
+
+
+                                                     </div>
+                      </div>
+                    </div>
+
+
+                                            <form action="https://www.ferreterasanluis.com/cart/add-to-cart" id="add-to-cart" method="post" accept-charset="utf-8">
+                            <input type="hidden" name="cartkey" value="" />
+                            <input type="hidden" name="id" value="75902"/>
+
+                                                        <div class="text-right">
+
+
+                                    <a href="#" class="tm-button-comprar tm-btnAzul uk-margin-bottom uk-width-small-1-1 js-buy-btn uk-hidden" onclick="addToCart();">
+                                        <i class="uk-icon-shopping-cart"></i>
+                                        Comprar
+                                    </a>
+
+                                    <div class="out-of-stock-msg uk-hidden">
+                                        <p style="color: #D32F2F; margin: 20px 0 0; font-weight: bold; font-size: 20px;"><i class="uk-icon-ban"></i> Producto Sin Stock</p>
+                                        <p style="font-size:12px;margin:0; text-transform: none;"><i>(Artículo a la espera de reposición)</i></p>
+                                        <a href="tel:+543414560301" class="tm-button-comprar uk-margin-bottom uk-width-small-1-1" style="text-decoration: none; text-align: left;font-size: 16px;text-transform: inherit;color: #002171 !important;display: block;border: 1px solid #dcdcd3;font-weight: normal;border-radius: 4px;padding: 12px 20px;margin: 30px 0 10px !important;">
+                                            <i class="uk-icon-phone"></i> Consultar vía telefónica 4560301
+                                        </a>
+                                    </div>
+<!--                                    <a href="#" class="tm-button-comprar tm-btnGrisOscuro uk-margin-bottom uk-width-small-1-1 js-contact uk-hidden" data-product-id="75902" style="font-size:14px;font-weight: 700;">
+                                        <i class="uk-icon-envelope"></i>
+                                        Notificarme cuando esté disponible                                        
+                                    </a>-->
+                                    <a href="#" class="tm-button-comprar tm-btnGrisOscuro uk-margin-bottom uk-width-small-1-1 js-contact uk-hidden" data-product-id="75902" style="text-align: left;font-size: 16px;text-transform: inherit;color: #002171 !important;display: block;border: 1px solid #dcdcd3;font-weight: normal;border-radius: 4px;padding: 12px 20px;margin: 10px 0 10px !important;background: none !important;box-shadow: none;">
+                                        <i class="uk-icon-envelope"></i>   Recibir asesoramiento vía E-mail
+                                   </a>
+                                    <div class="out-of-stock-msg uk-hidden">
+                                        <p style="padding: 0;margin: 10px 0 20px;text-align: center;color: #444;font-size: 14px;font-weight: bold;line-height: 30px;">
+                                            <a href="https://www.ferreterasanluis.com/c/desmalezadoras" style="color: #444;     display: block;">Ver productos similares »</a>
+                                        </p>
+                                    </div>    
+                            </div>
+                        </form>
+                    
+                                    </div>
+
+                <div class="tm-cards uk-width-small-1-1 uk-text-center">
+                    
+                                        
+                                        <img src="https://www.ferreterasanluis.com/themes/fsl/assets/images/mp/web_banner-producto.jpg" alt="Medios de pago - MercadoPago" class="uk-margin-top"/>
+                                    </div>
+
+                <div class="uk-panel uk-panel-box tm-data-compra tm-data-compra-large uk-width-small-1-1">
+                    <div class="uk-clearfix">
+                        <div class="uk-float-left tm-icon-wrap uk-width-2-10 uk-width-medium-2-10 uk-width-large-1-10">
+                            <i class="uk-icon-credit-card"></i>
+                        </div>
+                        <div class="uk-float-left uk-width-8-10 uk-width-medium-8-10 uk-width-large-9-10">
+                            <h3><span>¡OPORTUNIDADES ÚNICAS!</span></h3>
+                                                        <p>
+                                Pague con <b>Tarjeta de Crédito</b> en <b class="tm-azul">cuotas</b>
+                                o con <b>Tarjeta de Débito</b>
+                            </p>
+                                                                                </div>
+                    </div>
+                    <div class="uk-clearfix  uk-margin-top">
+                        <div class="uk-float-left tm-icon-wrap uk-width-2-10 uk-width-medium-2-10 uk-width-large-1-10">
+                            <i class="uk-icon-truck"></i>
+                        </div>
+                        <div class="uk-float-left uk-width-8-10 uk-width-medium-8-10 uk-width-large-9-10">
+                                                            <h3>¡ENVÍO A <span>TODO EL PAÍS</span>!</h3>
+                                                        <p>Conozca las formas, métodos de <b>envío y/o retiro</b>.
+                            <a href="https://www.ferreterasanluis.com/page/formas-de-entrega" target="_blank">Ver más »</a>
+                            </p>
+                        </div>
+                    </div>
+
+                    <!--
+                    <div class="uk-clearfix tm-garantia">
+                        <div class="uk-float-left tm-icon-wrap uk-width-2-10 uk-width-medium-2-10 uk-width-large-1-10">
+                            <i class="uk-icon-check-circle-o"></i>
+                        </div>
+                        <div class="uk-float-left uk-width-8-10 uk-width-medium-8-10 uk-width-large-9-10">
+                            <h3>GARANTÍA BLACK&DECKER <span>2 AÑOS</span></h3>
+                            <p>A partir de la fecha de compra, contra defectos por fallas en los materiales o fabricación.</p>
+                        </div>
+                    </div>-->
+                </div>
+
+            </div>
+        </div>
+
+        <div class="uk-grid tm-ficha">
+            <div class="uk-width-1-1 uk-width-large-1-1">
+                <!-- This is the tabbed navigation containing the toggling elements -->
+                <ul class="uk-tab tm-tabs" data-uk-tab="{connect:'#js-ficha-producto'}">
+                    <li class="uk-width-1-3">
+                        <a href="" class="uk-width-1-1">
+                            <i class="uk-icon-list"></i>
+                            <b class="uk-hidden-small">Descripción</b>
+                        </a>
+                    </li>
+                    <li class="uk-width-1-3">
+                        <a href="" class="uk-width-1-1">
+                            <i class="uk-icon-file-o"></i>
+                            <b class="uk-hidden-small">Ficha técnica</b>
+                        </a>
+                    </li>
+                                    </ul>
+
+                <!-- This is the container of the content items -->
+                <ul id="js-ficha-producto" class="uk-switcher uk-margin uk-margin-top-large tm-wrap-fichas">
+                    <li>
+                        <div class="tm-description">
+                            DESMALEZADORA EJE RECTO 49.3cc (520CG)<br><br>Desmalezadora eje recto. Motoguadaña Nafta. Cortadora Bordeadora Bp 49cchogar / industria.1 Cuchilla de 3 puntas. 1 Arnés. 1 Bidón para mescla. Kit de herramientas. 1 Carretel con sistema automático.<br>                        </div>
+                    </li>
+                    <li>
+                        <div class="tm-description">
+                            DESMALEZADORA EJE RECTO 49.3cc (520CG)<br><br>-Cilindrada 52 (cc) -Potencia 2 ,1(hp) -Tanque de 1,12(litro) -Motor 2 tiempos - 6500 (rpm) -Encendido con polea y cebador -Eje cardanico apto cuchillas -Mando ergónomico adaptable -Cuchilla para corte de malezas<br>                            <br>
+                            <h4><b>Medidas de embalaje original</b></h4>                            ALTO: 29 cm<br>                            ANCHO: 29 cm<br>                            LARGO: 129 cm<br>                            PESO: 7.5 kg<br>
+                        </div>
+                    </li>
+                                  </ul>
+            </div>
+
+
+
+                    </div>
+    </div>
+    <div class="tm-bg-comocomprarV2">
+   <a href="https://www.ferreterasanluis.com/page/como-comprar" class="uk-flex" title="¿Cómo realizar una compra?">
+      <div class="iconWH">
+         <img src="https://www.ferreterasanluis.com/themes/fsl/assets/images/icons/compra.png" alt="¿Cómo realizar una compra?">
+      </div>
+      <div>
+         <h3>¿Cómo realizar una compra?</h3>
+         <p>Pasos para una compra exitosa.</p>
+      </div>
+   </a>
+   <a href="https://www.ferreterasanluis.com/page/medios-de-pago" class="uk-flex" title="¿Cómo se paga la compra?">
+      <div class="iconWH">
+         <img src="https://www.ferreterasanluis.com/themes/fsl/assets/images/icons/pago.png" alt="¿Cómo se paga la compra?">
+      </div>
+      <div>
+         <h3>¿Cómo se paga la compra?</h3>
+         <p>Formas y los métodos de Pago.</p>
+      </div>
+   </a>
+   <a href="https://www.ferreterasanluis.com/page/formas-de-entrega" class="uk-flex" title="¿Cómo entregan mi pedido?">
+      <div class="iconWH">
+         <img src="https://www.ferreterasanluis.com/themes/fsl/assets/images/icons/envio.png" alt="¿Cómo entregan mi pedido?">
+      </div>
+      <div>
+         <h3>¿Cómo entregan mi pedido?</h3>
+         <p>Retiro y envíos a domicilio.</p>
+      </div>
+   </a>
+   <a href="tel:+54903414560301" class="uk-flex" title="Contactanos!">
+      <div class="iconWH">
+         <img src="https://www.ferreterasanluis.com/themes/fsl/assets/images/icons/contacto.png" alt="Contactanos!">
+      </div>
+      <div>
+         <h3>Contactanos! <span>(0341) 4560301</span></h3>
+         <!--<p>Lu a Vi. 8 a 17.30hs. | Sa. 8 a 12.30hs.</p>-->
+         Lu. a Vie. 8 a 17hs. | Sab. 8 a 12:30hs.
+      </div>
+   </a>
+</div>
+
+</div>
+
+<div id="contact-modal" class="uk-modal">
+    <div class="uk-modal-dialog">
+        <button class="uk-modal-close uk-close" type="button"></button>
+        <div class="uk-modal-header tm-modal-consultar">
+            <h2>
+                <i class="uk-icon-comment"></i>
+                                Artículo a la espera de reposición
+            </h2>
+            <p>
+                                Complete el formulario con sus datos para recibir información.
+            </p>
+        </div>
+        <div class="modal-content tm-modal-consultar"></div>
+    </div>
+</div>
+
+<script>
+
+    var modal_content_selector = '#contact-modal .uk-modal-dialog .modal-content';
+    var contact_modal;
+    var cart_items_modal;
+
+    function displayCartItemsBox()
+    {
+        $.get(
+            'https://www.ferreterasanluis.com/cart/display-cart-items',
+            null,
+            function(data)
+            {
+                cart_items_modal = UIkit.modal.blockUI(data.html,{center:true});
+            },
+            'json');
+    }
+
+    function addToCart()
+    {
+        //$('.js-buy-btn').spin();
+        uiloader_show('Aguarde unos instantes...');
+        $('.js-buy-btn').attr('disabled', true);
+        var cart = $('#add-to-cart');
+
+        $.post(
+                cart.attr('action'),
+                cart.serialize(),
+                function(data)
+                {
+                    if(data.message != undefined)
+                    {
+                        if (data.status != undefined)
+                        {
+                            if (data.status == 'added' || data.status == 'already_added')
+                            {
+                                displayCartItemsBox();
+                            }
+                        }
+                        else
+                        {
+                            var str;
+
+                            str = data.message+' <a href="https://www.ferreterasanluis.com/checkout"> Ver carro</a>';
+
+                            UIkit.notify(str, { status  : 'success', timeout : 5000, pos : 'top-center' });
+                        }
+
+                        //$('#productAlerts').html('<div class="alert green">'+data.message+' <a href="https://www.ferreterasanluis.com/checkout"> Ver carro</a> <i class="close"></i></div>');
+                        updateItemCount(data.itemCount, data.grandTotal);
+                        cart[0].reset();
+                    }
+                    else if(data.error != undefined)
+                    {
+                        //$('#productAlerts').html('<div class="alert red">'+data.error+' <i class="close"></i></div>');
+                        UIkit.notify(data.error/*+' <a href="https://www.ferreterasanluis.com/checkout"> Ver carro</a>'*/, { status  : 'info', timeout : 5000, pos : 'top-center' });
+                    }
+
+                    //$('.js-buy-btn').spin(false);
+                    uiloader_hide();
+                    $('.js-buy-btn').attr('disabled', false);
+                },
+                'json'
+        );
+    }
+
+    function get_stock(sku, cback)
+    {
+        $.post('https://www.ferreterasanluis.com/cart/item-stock/'+sku, cback);
+    }
+
+    function set_to_buy()
+    {
+         $('.js-buy-btn').removeClass('uk-hidden');
+         $('.js-contact').addClass('uk-hidden');
+         $('.out-of-stock-msg').addClass('uk-hidden');
+    }
+
+    function set_to_contact()
+    {
+         $('.js-buy-btn').addClass('uk-hidden');
+         $('.js-contact').removeClass('uk-hidden');
+         $('.out-of-stock-msg').removeClass('uk-hidden');
+    }
+
+    ////////////////////////////////////////
+    $(document).ready(function(){
+        $('.tm-item .js-link').click(function(){
+           var link = $(this).attr('data-link');
+           //alert( link);
+           window.location =  link;
+        });
+
+        $('.js-contact').click(function(e)
+        {
+            e.preventDefault();
+
+            $(modal_content_selector).html('');
+
+            $.post('https://www.ferreterasanluis.com/product/contact/'+$(this).attr('data-product-id'), function(data){
+                //$.gumboTray(data);
+                $(modal_content_selector).html(data);
+
+                contact_modal = UIkit.modal('#contact-modal');
+
+                contact_modal.show();
+                GA_consultar_01();
+
+            });
+        });
+
+        $('.js-option-droplist').change(function()
+        {
+            var $this  = $(this);
+
+            var option = $(this).find('option:selected');
+            var sku    = option.attr('data-value');
+
+            if (!sku) return;
+
+            //set buttons by option stock
+            get_stock(sku, function(data)
+            {
+                if (parseInt(data) > 0)
+                {
+                   set_to_buy();
+                }
+                else
+                {
+                   set_to_contact();
+                }
+            });
+        });
+
+
+
+        
+            get_stock('IMVABP-D520CC', function(data)
+            {
+                if (parseInt(data) > 0)
+                {
+                   set_to_buy();
+                }
+                else
+                {
+                   set_to_contact();
+                }
+            });
+
+        
+     });
+</script>
+
+
+
+
+<footer id="footer">
+            <footer id="footer">
+  <div class="tm-footerV2">
+    <div class="tm-logoFoot">
+      <img src="https://www.ferreterasanluis.com/themes/fsl/assets/images/custom/fsl_foot.svg" alt="Ferretera San Luis" height="69" width="165">
+    </div>
+
+    <div class="grid_foot">
+      <div>
+        <div class="data casa_1">
+          <h4>Casa Central</h4>
+          <p>
+            Av. Provincias Unidas 136
+            <br>
+            (2000) - Rosario, Santa Fe.
+            <br>
+            <a href="tel:03414560301" target="_blank">Tel. (0341) 4560301</a>
+          </p>
+        </div>
+        <div class="data casa_2">
+          <h4>Local Centro</h4>
+          <p>
+            Mitre esquina San Juan
+            <br>
+            (2000) - Rosario, Santa Fe.
+            <br>
+            <a href="tel:03414409095" target="_blank">Tel. (0341) 4409095</a>
+          </p>
+        </div>
+<!--        <div class="data redes">
+          <a href="https://www.facebook.com/ferreterasanluis" target="_blank"><i class="uk-icon-facebook"></i></a>
+          <a href="https://www.instagram.com/ferreterasanluis/"  target="_blank"><i class="uk-icon-instagram"></i></a>
+        </div>-->
+      </div>
+      <div class="links_foot">
+        <h3>
+            Acerca de 
+<!--          Compras en
+          <br>
+          ferreterasanluis.com-->
+        </h3>
+        <ul class="uk-list">
+
+          <li><a href="https://www.ferreterasanluis.com/page/formas-de-entrega">Formas de Envío</a></li>
+          <li><a href="https://www.ferreterasanluis.com/page/medios-de-pago">Medios y Formas de Pago</a></li>
+          <li><a href="https://www.ferreterasanluis.com/page/mas-info">Más info sobre las compras</a></li>
+          <li><a href="https://www.ferreterasanluis.com/page/terminos-y-condiciones">Términos y condiciones</a></li>
+        </ul>
+      </div>
+      <div class="links_foot">
+        <h3>
+<!--          Acerca de <br>
+          Ferretera San Luis-->
+          &nbsp;
+        </h3>
+        <ul class="uk-list">
+
+          <li><a href="https://www.ferreterasanluis.com/page/institucional">Información Institucional</a></li>
+          <li><a href="https://www.ferreterasanluis.com/page/locales-comerciales">Locales Comerciales</a></li>
+          <li><a href="https://www.ferreterasanluis.com/page/contacto">Contacto</a></li>
+        </ul>
+      </div>
+      <div class="links_foot">
+        <h4>¿Querés recibir novedades y las mejores ofertas en tu e-mail?</h4>
+       
+        <a href="#idmodalform" class="suscribe uk-width-1-1" data-uk-modal="">
+          ¡Suscribirme!
+        </a>
+        <p>&nbsp;</p>
+        <h3>
+            Seguinos
+            <span>
+                <a href="https://www.facebook.com/ferreterasanluis" target="_blank" style="text-decoration: none;">
+                    <i class="uk-icon-facebook-square"></i>
+                </a>
+                <a href="https://www.instagram.com/ferreterasanluis/"  target="_blank" style="text-decoration: none;">
+                    <i class="uk-icon-instagram"></i>
+                </a>
+<!--                <a href="#"  target="_blank">
+                    <i class="uk-icon-linkedin-square"></i>
+                </a>    -->
+            </span>    
+        </h3>        
+      </div>
+    </div>
+  </div>
+
+  <div class="tm-foot-bottomV2">
+    <div class="terminos-afip">
+      <div>
+        <p>
+          1976 . 2022 Ferretera San Luis SRL® | Todos los derechos reservados | Rosario . Santa Fe | Argentina
+        </p>
+        <p>
+          El uso de este sitio web implica la aceptación de los <a href="https://www.ferreterasanluis.com/page/terminos-y-condiciones" target="_blank"><b>Términos y Condiciones</b></a> y de las Políticas de Privacidad de FSL.
+        </p>        
+	<p class="firma uk-margin-top">Powered by <a href="http://www.ziris.com.ar" target="_blank">ZIRIS</a>
+      </div>
+      <div class="uk-flex uk-flex-middle afip">
+        <div class="uk-position-relative">
+          <!-- NO EDITAR- Codigo del Sello de eSIFCOS - NO EDITAR-->
+          <table style="" width="50px" border="0" cellspacing="0" cellpadding="0" title="CLICK PARA VERIFICAR: Este sitio usa un sello de validación de eSIFCOS">
+              <tbody>
+                  <tr>
+                      <td><a target="_blank" href="https://e-sifcos.cba.gov.ar/Sistema/VerComercio.aspx?id=56&amp;h=QRjibtz2OVC7C4VIxgGTmDK1IE0teasSRot6ziSvLA8%3d"><span id="ss_img_wrapper_gmogs_image_125-50_en_dblue"><img class="js-deferred-img-loading" data-src="https://e-sifcos.cba.gov.ar/Sistema/ValidarSello.ashx?id=56&amp;h=QRjibtz2OVC7C4VIxgGTmDK1IE0teasSRot6ziSvLA8%3d"></span></a></td>
+                  </tr>
+              </tbody>
+          </table>
+          <!-- NO EDITAR- Codigo del Sello de eSIFCOS - NO EDITAR -->
+        </div>
+        <div>
+          <a class="tm-data-fiscal" href="http://qr.afip.gob.ar/?qr=9kKRi1qg9FbjvuL3HGGQIQ,," target="_F960AFIPInfo"><img src="https://www.afip.gob.ar/images/f960/DATAWEB.jpg" border="0"></a>
+        </div>
+      </div>
+    </div>
+    <div>
+      <p class="firma">Powered by <a href="http://www.ziris.com.ar" target="_blank">ZIRIS</a>
+    </div>
+    <div data-uk-scrollspy="{cls:'uk-animation-fade',repeat:true}" class="wrapToptop uk-scrollspy-init-inview uk-scrollspy-inview uk-animation-fade">
+		    <a href="#toptop" class="tm-toptop" data-uk-smooth-scroll="">
+		        <i class="uk-icon-chevron-up"></i>
+		    </a>
+		</div>
+
+  </div>
+</div>
+
+
+
+
+<div class="tm-footer" style="padding:0 !important">
+<div class="uk-modal" id="idmodalform">
+    <div class="uk-modal-dialog">
+				        <form action="https://www.ferreterasanluis.com/subscribe" id="subscribers_form" class="uk-form uk-margin-top-remove" method="post" accept-charset="utf-8">
+				    <div class="uk-grid">
+				        <div class="uk-form-icon uk-width-1-1">
+				            <i class="uk-icon-user"></i>
+				            <input type="text" placeholder="Ingrese su Nombre" class="uk-width-1-1" name="name">
+				        </div>
+						<div class="uk-form-icon uk-width-1-1">
+						    <i class="uk-icon-envelope"></i>
+						    <input type="text" placeholder="Ingrese su E-mail" class="uk-width-1-1" name="email">
+						</div>
+
+				        <div class="uk-width-1-1">
+                                                                                        <select name="interests" class="uk-width-1-1" >
+                                                <option value="">--Seleccione su profesión--</option>
+                                                                                                    <option value="Artesanos">Artesanos</option>
+                                                                                                    <option value="Carpintería">Carpintería</option>
+                                                                                                    <option value="Cerrajería">Cerrajería</option>
+                                                                                                    <option value="Construcción">Construcción</option>
+                                                                                                    <option value="Herrería">Herrería</option>
+                                                                                                    <option value="Higienistas">Higienistas</option>
+                                                                                                    <option value="Industria">Industria</option>
+                                                                                                    <option value="Instaladores">Instaladores</option>
+                                                                                                    <option value="Jardinería">Jardinería</option>
+                                                                                                    <option value="Limpieza">Limpieza</option>
+                                                                                                    <option value="Mecánica">Mecánica</option>
+                                                                                                    <option value="Pintores">Pintores</option>
+                                                                                                    <option value="Plomeros/Gasistas">Plomeros/Gasistas</option>
+                                                                                                    <option value="Soldadores">Soldadores</option>
+                                                                                                    <option value="Tornería">Tornería</option>
+                                                                                                    <option value="Yeseros">Yeseros</option>
+                                                                                                <option value="Otra">Otra</option>
+                                            </select>
+				        </div>
+                                        <div class="uk-width-1-1">
+                                            <div class="g-recaptcha" data-sitekey="6LdsuggUAAAAAMEAKKQtNC1_idjZwFdCq8R3wYYu"></div>
+                                        </div>
+				        <div class="uk-width-1-1">
+                                            <button type="submit" name="submit" class="tm-button uk-button uk-margin-small-top uk-width-1-1" >Suscribirme</button>
+				        </div>
+				    </div>
+				</form>
+				    </div>
+</div>
+</div>
+<script>
+	/*$(document).ready(function(){
+
+		//var modal = UIkit.modal("#idmodalform");
+    var modalStorage = localStorage.getItem('modalView');
+
+    if(modalStorage === null){
+    	//modal.show();
+			localStorage.setItem('modalView', 'true');
+    }else{
+    	localStorage.setItem('modalView', 'false');
+    }
+	});*/
+
+</script>
+
+
+
+
+
+
+        <script src="https://www.ferreterasanluis.com/assets/js/custom/end.non-checkout.js"></script>
+        </footer>
+
+<div id="precheckout-container" class="uk-offcanvas tm-calculator">
+    <div class="uk-offcanvas-bar uk-offcanvas-bar-flip">
+        <a href="#precheckout-container" data-uk-offcanvas="{mode:'reveal'}" class="tm-cerrar uk-close"></a>        
+        <div class="tm-gridOffCanvas" id="ofcv_content"></div>
+    </div>
+</div>   
+
+<script src="https://www.ferreterasanluis.com/assets/js/custom/end.global.js"></script>
+
+
+<style>
+.tm-head {top:0;}
+</style>
+
+
+
+</body>
+</html>
